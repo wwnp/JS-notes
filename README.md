@@ -1,14 +1,9 @@
 # JS-notes
 
-Array:
+# Array:
   
-# .every()
+
 <details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <summary>.every()</summary>
+  [12, 5, 8, 130, 44].every(elem => elem >= 10)
 </details>
