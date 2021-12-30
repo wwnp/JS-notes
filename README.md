@@ -1,4 +1,4 @@
-## Array:
+#### Array:
 <details>
   <summary>.every()</summary>
   <p>
@@ -48,4 +48,4 @@
   </p>
 </details>
 
-## Object:
+#### Object:
