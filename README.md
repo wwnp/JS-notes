@@ -1,3 +1,5 @@
+## Methods
+
 #### Array:
 <details>
   <summary>.every()</summary>
