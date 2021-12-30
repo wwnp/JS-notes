@@ -1,5 +1,4 @@
 ## Array:
-## Array:
 <details>
   <summary>.every()</summary>
   <p>
