@@ -1,15 +1,13 @@
 # JS-notes
 
 ## Array:
-  
+  [12, 5, 8, 130, 44].every(elem => elem >= 10) // false ; all els above 10
 
 <details>
   <summary>.every()</summary>
-    ```c#
-    {
-      [12, 5, 8, 130, 44].every(elem => elem >= 10) // false ; all els above 10
-    }
-    \```  
+  ```c#
+    [12, 5, 8, 130, 44].every(elem => elem >= 10) // false ; all els above 10
+  \```
 </details>
 <details>
 <summary>I could use some help...</summary>
