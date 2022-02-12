@@ -1,5 +1,5 @@
 ## Methods
-
+123
 #### Array:
 <details>
   <summary>.every()</summary>
