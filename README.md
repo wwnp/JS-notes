@@ -1,5 +1,5 @@
 ## Methods
-
+test
 #### Array:
 <details>
   <summary>.every()</summary>
